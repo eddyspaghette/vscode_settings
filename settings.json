@@ -1,0 +1,29 @@
+{
+
+    "workbench.colorTheme": "Nord",
+    "python.languageServer": "Pylance",
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindings": [
+      {
+        "before": [
+          "j",
+          "k"
+        ],
+        "after": [
+          "<Esc>"
+        ]
+      }
+    ],
+    "vim.leader": ",",
+    "vim.handleKeys": {
+      "<C-a>": false,
+      "<C-f>": false,
+      "<C-h>": false,
+    },
+    "editor.fontSize": 25,
+    "editor.fontFamily": "GoMono NF, Consolas, 'Courier New', monospace"
+}
